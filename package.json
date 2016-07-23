@@ -1,0 +1,12 @@
+{
+  "name": "github-webhook-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "botkit": "^0.2.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {}
+}
